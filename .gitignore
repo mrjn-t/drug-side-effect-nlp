@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Large model files
+*.pkl
+*.joblib
