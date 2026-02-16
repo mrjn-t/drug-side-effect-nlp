@@ -82,6 +82,14 @@ Group-based splitting provides a more realistic estimate of generalization.
 
 ---
 
+## Installation
+
+To install dependencies:
+
+pip install -r requirements.txt
+
+---
+
 ## Why This Project
 
 This project reflects my interest in Data Science and my motivation to develop practical skills in analyzing real-world data.
