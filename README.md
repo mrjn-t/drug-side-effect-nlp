@@ -99,4 +99,4 @@ It combines domain knowledge with applied machine learning and highlights the im
 
 ## Author
 
-Self-initiated project as part of preparation for MSc in Data Science / AI.
+Self-initiated project to develop practical skills in machine learning and NLP, as part of preparation for MSc in Data Science / AI.
